@@ -153,7 +153,7 @@ TLN_Error :: enum i32 {
     UNSUPPORTED,
     REF_LIST,
     IDX_PALETTE,
-    TLN_MAX_ERR,
+    MAX_ERR,
 }
 
 TLN_LogLevel :: enum i32 {
